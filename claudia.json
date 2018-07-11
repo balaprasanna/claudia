@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "claudia-serverless-api-endpoints-executor",
+    "name": "claudia-serverless-api-endpoints",
+    "region": "us-east-2"
+  },
+  "api": {
+    "id": "1c58gcj3f4",
+    "module": "index"
+  }
+}

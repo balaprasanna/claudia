@@ -1,0 +1,24 @@
+{
+  "name": "claudia-serverless-api-endpoints",
+  "version": "1.0.0",
+  "description": "This is a proof of concept APP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balaprasanna/claudia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/balaprasanna/claudia/issues"
+  },
+  "homepage": "https://github.com/balaprasanna/claudia#readme",
+  "dependencies": {
+    "aws-sdk": "^2.272.1",
+    "claudia-api-builder": "^4.1.1"
+  }
+}
